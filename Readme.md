@@ -20,6 +20,8 @@ A cross-platform mobile food delivery application built with **React Native + Ex
 
 ## Demo Video
 
+![Video](https://youtu.be/oahM2siv-Bw)
+
 ## 🛠 Tech Stack
 
 | Category | Library / Tool |
